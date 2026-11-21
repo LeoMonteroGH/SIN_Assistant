@@ -11,7 +11,7 @@ from src.config import (
 # Conexión con ChromaDB
 
 cliente = chromadb.PersistentClient(
-    path=r"C:\Users\crist\OneDrive\CRISTHIAN CRISTANCHO\Ciencia de Datos y Analítica\6to Semestre\NLP\Phase 4\SIN_Assistant\chroma_db"
+    path="chroma_db"
 )
 
 coleccion = cliente.get_or_create_collection(
