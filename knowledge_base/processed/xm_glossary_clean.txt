@@ -1,0 +1,657 @@
+Acción de tutela: Se encuentra consagrada en el artículo 86 de la Constitución Nacional. Es la acción que tiene toda persona natural o jurídica como mecanismo preferencial frente a la ausencia de otro procedimiento, para reclamar ante las autoridades judiciales la protección inmediata de sus derechos constitucionales fundamentales, cuando quiera que estos resulten vulnerados o amenazados por la acción u omisión de cualquier autoridad pública. Su trámite procedimental se encuentra reglamentado en el Decreto 2591 de 1991, que a su vez fue reglamentado por el Decreto 306 de 1992; así como en la Resolución 669 de 2000 expedida por la Defensoría del Pueblo. 
+
+Actividad de comercialización de energía eléctrica: Actividad consistente en la compra de energía eléctrica en el mercado mayorista y su venta a los usuarios finales, bien sea que esa actividad se desarrolle o no en forma combinada con otras actividades del sector eléctrico, cualquiera sea la actividad principal. (Art. 11, Ley 143 de 1994). 
+
+Activos de conexión al STN: Son aquellos activos que se requieren para que un generador, un usuario u otro transportador, se conecten físicamente al Sistema de Transmisión Nacional, a un Sistema de Transmisión Regional, o a un Sistema de Distribución Local. Siempre que estos activos sean usados exclusivamente por el generador, el usuario o el transportador que se conecta, o exclusivamente por un grupo de usuarios no regulados o transportadores que se conecten, no se considerarán parte del Sistema respectivo. 
+
+Activos de conexión a un STR o a un SDL: Son los bienes que se requieren para que un generador, Operador de Red, usuario final, o varios de los anteriores, se conecten físicamente a un Sistema de Transmisión Regional o a un Sistema de Distribución Local. Los activos de conexión a un STR o a un SDL se remunerarán a través de contratos entre el propietario y los usuarios de dichos activos. 
+
+Activos de uso del STN: Son aquellos activos de transmisión de electricidad que operan a tensiones iguales o superiores a 220 kV, son de uso común, se clasifican en unidades constructivas y son remunerados mediante cargos por uso del STN. 
+
+Activos de uso de STR y SDL: Son aquellos activos de transmisión de electricidad que operan a tensiones inferiores a 220 kV, se clasifican en unidades constructivas, no son activos de conexión, y son remunerados mediante cargos por uso de STR o SDL. 
+
+Activos no eléctricos: Son aquellos activos que no hacen parte de la infraestructura de transporte, pero que son requeridos para cumplir con el objeto social. Hacen parte de estos activos, entre otros, los siguientes: edificios (sedes administrativas, bodegas, talleres, etc.) maquinaria y equipos (grúas, vehículos, herramientas, etc.), equipos de cómputo, equipos de comunicaciones, etc. 
+
+Acuerdo de reestructuración: Su base legal la consagra la Ley 550 de 1999, la cual ha sido modificada, adicionada y complementada por otras disposiciones. Puede definirse como un mecanismo legal que permite la celebración de convenios con los acreedores, con el que cuentan las empresas que se encuentran en dificultades para atender sus obligaciones pecuniarias y que, no obstante, se consideran económicamente viables. Por ello no es impropio decir que se trata de una especie de concordato. 
+
+Acuerdos comerciales: Compromisos bilaterales, adoptados por el ASIC, o quien haga sus veces, y cada uno de los administradores de los sistemas eléctricos de los países miembros de la Comunidad Andina, o de los países con los que se tenga una integración de mercados eléctricos, de conformidad con la regulación vigente. 
+
+Acuerdos operativos: Compromisos bilaterales, adoptados entre el Centro Nacional de Despacho -CND-, o quien haga sus veces, y cada uno de los operadores de los sistemas eléctricos de los países miembros de la Comunidad Andina, o de los países con los que se tenga una integración de mercados eléctricos, de conformidad con la regulación vigente. 
+
+Administrador del Sistema de Intercambios Comerciales (ASIC): Dependencia del Centro Nacional de Despacho de que tratan las Leyes 142 y 143 de 1994, encargada del registro de fronteras comerciales, de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago del valor de los actos, contratos, transacciones y en general de todas las obligaciones que resulten por el intercambio de energía en la Bolsa, para generadores y comercializadores; de las subastas de Obligaciones de Energía Firme; del mantenimiento de los sistemas de información y programas de computación requeridos; y del cumplimiento de las demás tareas que sean necesarias para el funcionamiento adecuado del Sistema de Intercambios Comerciales (SIC). 
+
+AFAC: Servicio del Mercado de Energía Mayorista que presenta un resumen mensual de las liquidaciones que se realizan por parte del Administrador del SIC por las transacciones en la Bolsa de Energía. 
+
+Agente: Cualquiera de las personas a las que se refiere el artículo 15 de la Ley 142 de 1994. 
+
+Agente comercializador: Persona natural o jurídica cuya actividad principal es la comercialización de energía eléctrica. 
+
+Agente económico: Cualquiera de las personas a las que se refiere el artículo 15 de la Ley 142 de 1994. 
+
+Agente generador: Es la empresa registrada ante el Administrador del SIC que realiza la actividad de generación de energía. 
+
+Agentes del Mercado Mayorista: Los generadores, los comercializadores y los transportadores registrados ante el Administrador del Sistema de Intercambios Comerciales. 
+
+Aportes hídricos probabilísticas: Valores esperados para la hidrología a partir de datos históricos. 
+
+Área operativa: Conjunto de subestaciones, recursos de generación y demanda que presenta alguna restricción eléctrica y por lo tanto limita los intercambios con el resto del sistema. 
+
+Atención integral: Valor de compra del servicio del Mercado de Energía Mayorista que implica la satisfacción en forma oportuna y con la calidad que se requiere a todas las inquietudes y requerimientos de información del cliente en las transacciones realizadas. 
+
+Autoproductor: Corresponden a los Autogeneradores y Cogeneradores, definidos según las Resoluciones CREG 084 de 1996 y CREG 085 de 1996 y la Resolución CREG 107 de 1998, o en aquellas que las adicionen, modifiquen o sustituyan. 
+
+B Bahía: Conjunto de equipos que se utilizan para conectar una línea de transmisión, o un transformador, o un autotransformador, al barraje de una subestación, al igual que los equipos que se utilizan para seccionar o acoplar barrajes, o para transferir la carga de un barraje a otro. 
+
+Bolsa de Energía: Sistema de información, manejado por el Administrador del Sistema de Intercambios Comerciales, sometido a las reglas del Reglamento de Operación, en donde los generadores y comercializadores del mercado mayorista ejecutan actos de intercambio de ofertas y demandas de energía, hora a hora, para que el Administrador del Sistema de Intercambios Comerciales ejecute los contratos resultantes en la Bolsa de Energía, y liquide, recaude y distribuya los valores monetarios correspondientes a las partes y a los transportadores. 
+
+C Calendario de Capacitaciones: Documento que contiene el nombre de los seminarios, el lugar y la fecha en que serán dictados. 
+
+Canal: Medio físico de telecomunicación que permite la transmisión e intercambio de información entre el CND y los demás agentes del SIN. 
+
+Capacidad de entrega media: Capacidad equivalente de transformación del Sistema de Transmisión Nacional. 
+
+Capacidad de un Enlace Internacional: Límite máximo de flujo de potencia eléctrica de cada Enlace Internacional, considerando las condiciones de calidad, seguridad y estabilidad de los sistemas eléctricos, así como las características técnicas de las líneas y equipos de interconexión. Este límite es calculado en forma coordinada por los operadores de los sistemas de los países miembros de la Comunidad Andina, o de los países con los que se tenga una integración de mercados eléctricos en las condiciones de la presente Resolución, y harán parte del anexo de parámetros técnicos definido en la Resolución CREG-025 de 1995. 
+
+Capacidad efectiva: Máxima cantidad de potencia neta (expresada en valor entero en megavatios) que puede suministrar una unidad de generación en condiciones normales de operación. 
+
+Capacidad efectiva bruta: Máxima cantidad de potencia neta (expresada en valor entero en megavatios) que puede suministrar una unidad de generación en condiciones normales de operación, más consumo propio de servicios auxiliares. 
+
+Capacidad máxima de exportación: Capacidad máxima correspondiente a la sumatoria de las capacidades de exportación de los enlaces internacionales del SIN operando simultáneamente, utilizados para las Transacciones Internacionales de Electricidad de corto plazo -TIE-. 
+
+Capacidad máxima de importación: Capacidad máxima correspondiente a la sumatoria de las capacidades de importación de los enlaces internacionales del SIN operando simultáneamente, utilizados para las Transacciones Internacionales de Electricidad de corto plazo -TIE-. 
+
+Capacidad nominal: Potencia de diseño de una unidad o planta de generación. 
+
+Capacidad nominal de activos de conexión al STN: Para los activos de conexión, la capacidad nominal corresponde a la capacidad asignada en el Contrato de Conexión. Estas capacidades deberán ser declaradas ante el CND, una vez suscrito el Contrato de Conexión respectivo. Para aquellos activos de conexión existentes, que no hayan declarado la capacidad nominal, el CND asumirá aquella utilizada en los análisis de seguridad, mientras estas son declaradas. 
+
+Capacidad nominal de activos de uso del STN: Para los activos de uso del STN, la capacidad nominal corresponde a la capacidad que se encuentre declarada ante el CND. Para activos nuevos, esta será declarada con anterioridad a la entrada en operación comercial de los mismos. 
+
+Capacidad remanente: Resultado de descontar de la disponibilidad declarada de cada unidad generadora, la reserva rodante y el valor máximo entre las generaciones mínimas técnicas, por seguridad y por control automático de generación. 
+
+Cargo de conexión: Suma que el usuario paga para cubrir los costos en que se incurre por conectarlo al servicio de electricidad. 
+
+Cargo por capacidad: Costo para remunerar las plantas que le confieren firmeza al sistema y compensar los bajos precios que pueda tener la Bolsa de Energía durante los periodos de invierno, de tal forma que se recupere la inversión en nuevas plantas eficientes que aseguren la confiabilidad del sistema en condiciones de hidrología crítica en los embalses del Sistema Interconectado Nacional. Se recauda a través de los generadores con base en su energía despachada valorada al costo equivalente real de energía ($/kWh). Desde enero de 1997 reemplazó los cargos por respaldo y potencia. 
+
+Cargo por uso del STN: Tarifa que recupera los costos asociados a la prestación del servicio por la utilización que los agentes del mercado mayorista hacen de las redes que conforman el sistema para realizar las transferencias de energía. Remunera a los transportadores con los ingresos necesarios para realizar sus actividades. El 100% del valor lo cubren comercializadores. 
+
+Cargo por uso monomio: Cargo monomio por unidad de energía, expresado en $/kWh. 
+
+Cargos por uso de los STR: Son los cargos, expresados en $/kWh, que remuneran los activos de uso del nivel de tensión 4 y los activos de conexión al STN, de los OR. 
+
+Cargos por uso monomios horarios: Cargos por uso por unidad de energía, expresados en $/kWh y diferenciados por periodo de carga. 
+
+Caudal agregado: Sumatoria de los caudales de todos los ríos que aportan agua a alguna planta del Sistema Interconectado Nacional. 
+
+Centro de control: Se entiende como centro de control, el Centro Nacional de Despacho (CND), un Centro Regional de Control (CRC), un Centro de Generación (CG) o un Centro Local de Distribución (CLD), según el caso. 
+
+Centro Nacional de Despacho (CND): O la entidad que asuma sus funciones, conforme a lo establecido en el Decreto 1171 de 1999. Es la dependencia encargada de la planeación, supervisión y control de la operación integrada de los recursos de generación, interconexión y transmisión del Sistema Interconectado Nacional. Está igualmente encargado de dar las instrucciones a los Centros Regionales de Despacho para coordinar las maniobras de las instalaciones con el fin de tener una operación segura, confiable y ceñida al reglamento de operación y a todos los acuerdos del Consejo Nacional de Operación. 
+
+Centro Regional de Control (CRC): Centros responsables de la planeación eléctrica de corto plazo, coordinación, supervisión y control de la operación de las redes, subestaciones y plantas de generación que se encuentren bajo su cobertura, coordinando la operación y maniobras de esas instalaciones, con sujeción a las instrucciones impartidas por el CND y teniendo como objetivo una operación segura y confiable del SIN, con sujeción a la reglamentación vigente y los acuerdos del CNO. 
+
+Centros de recolección: Constituidos por los propietarios de los equipos de medida para concentrar las lecturas de sus contadores y de otros agentes, de acuerdo con las condiciones geográficas y de comunicaciones. Permiten también el envío de lecturas consolidadas al Centro Nacional de Despacho y se encuentran en las instalaciones de diferentes agentes del mercado, preferiblemente en los Centros Regionales de Despacho. 
+
+Código de redes: Conjunto de reglas expedidas por la CREG, a las cuales deben someterse las empresas de servicios públicos del sector y los usuarios conectados al Sistema Interconectado Nacional. 
+
+Está conformado por los códigos de: Planeamiento de la expansión del Sistema de Transmisión Nacional, Conexión, Operación y Medida. 
+
+Comercialización de energía eléctrica: Actividad consistente en la compra de energía eléctrica y su venta a los usuarios finales, regulados o no regulados. Está sujeta a las disposiciones previstas en las leyes eléctricas y de servicios públicos domiciliarios, en lo pertinente. 
+
+Comercializador de energía eléctrica: Persona natural o jurídica que comercializa electricidad, bien como actividad exclusiva o en forma combinada con otras actividades del sector eléctrico, cualquiera de ella sea la actividad principal. 
+
+Comisión de Regulación de Energía y Gas (CREG): Organismo creado mediante el artículo 68 y siguientes de la Ley 142 de 1994, como unidad administrativa especial, con independencia administrativa, técnica y patrimonial, adscrita al Ministerio de Minas y Energía, encargada de emitir la regulación del sector eléctrico y de gas combustible. 
+
+Comité Asesor de Comercialización: Es un comité creado por la Comisión de Regulación de Energía y Gas - CREG - mediante la Resolución 068 de 1999, para asistirla en el seguimiento y la revisión de los aspectos comerciales del Mercado de Energía Mayorista. 
+
+Comité Asesor de Planeamiento de la Transmisión (CAPT): Es el comité constituido por la UPME, el cual tiene como fin el de compatibilizar criterios, estrategias y metodologías para la expansión del STN. 
+
+Concordato: Es una herramienta legal que tiene por objeto la recuperación y conservación de la empresa como unidad de explotación económica y fuente generadora de empleo, así como la protección adecuada del crédito. Su característica principal es brindar al empresario la oportunidad de recuperarse económicamente. Se encuentra regulada en la Ley 222 de 1995. 
+
+Condición Anormal de Orden Público (CAOP): Se define como una situación de perturbación de las condiciones normales de la marcha del país, tales como los paros cívicos regionales, paros cívicos nacionales, periodos pre-electorales y en general condiciones especiales previsibles que demandan mayores medidas de seguridad en la operación del Sistema Interconectado Nacional. En condición de alerta de orden público el CND declara el grado de seguridad con el cual se debe operar el SIN. Las consignas generales de operación en Condiciones Anormales de Orden Público (CAOP) serán definidas por el Centro Nacional de Despacho, las cuales deberán ser informadas a la Comisión de Regulación de Energía y Gas y al Consejo Nacional de Operación. 
+
+Consejo Nacional de Operación: Organismo creado por la Ley 143 de 1994 que tiene como función principal acordar los aspectos técnicos para garantizar que la operación integrada del Sistema Interconectado Nacional sea segura, confiable y económica, y ser el órgano ejecutor del reglamento de operación. Las decisiones del Consejo Nacional de Operación podrán ser recurridas ante la Comisión de Regulación de Energía y Gas. Su conformación está definida en el artículo 37 de la Ley 143 de 1994. 
+
+Consignación: Es el procedimiento mediante el cual se solicita, se estudia y se autoriza la intervención de un equipo, de una instalación o de parte de ella para mantenimiento. 
+
+Consignación de emergencia: Es el procedimiento mediante el cual se autoriza previa declaración del agente responsable, la realización del mantenimiento y/o desconexión de un equipo, de una instalación o de parte de ella cuando su estado ponga en peligro la seguridad de personas, de equipos o de instalaciones, no pudiéndose cumplir con el procedimiento de programación del mantenimiento respectivo. 
+
+Consignas Operativas: Procedimientos y recomendaciones técnicas necesarias para maniobrar el Sistema Interconectado Nacional en forma segura. También denominado consignas generales de operación. 
+
+Consumo de auxiliares: Demandas internas de energía de las subestaciones de potencia y las plantas de generación. 
+
+Consumo propio: El consumo de energía y potencia requerido por los sistemas auxiliares de una unidad generadora o una subestación. 
+
+Contrato de mandato: El contrato de mandato es aquel por medio del cual una persona confía la gestión de uno o más negocios a otra, que se hace cargo de ellos por cuenta y riesgo de la primera. La persona que concede el encargo se llama mandante y la que lo recibe se llama mandatario. 
+
+Contrato en bolsa: El que se celebra a través del administrador del Sistema de Intercambios Comerciales para la enajenación hora a hora de energía, y cuyos precios, cantidades, garantías, liquidación y recaudo se determinan por la Resolución CREG 024 del 13 de julio de 1995. 
+
+Contratos de Largo Plazo: Contrato de compra venta de energía celebrado entre agentes comercializadores y generadores que se liquida en la Bolsa de Energía, para lo cual debe tener como contenido mínimo: la identidad de las partes contratantes; reglas o procedimientos claros para determinar hora a hora, durante la duración del contrato, las cantidades de energía a asignar y el respectivo precio, en forma consistente con los procedimientos de la liquidación. 
+
+Contribución: Suma que el usuario paga al comercializador por encima del costo del servicio, destinada a financiar subsidios, según las normas pertinentes. 
+
+Control Automático de Voltaje (CAV): Sistema de control automático requerido para mantener el voltaje dentro del rango de operación definido en la Resolución CREG-025 de 1995 (Código de Operación). 
+
+Control de frecuencia: Mecanismo de control localizado en las unidades para garantizar que la generación siga la demanda. Cuando es control secundario, se trata de señales adicionales con el objeto de llevar la frecuencia a 60 Hz. 
+
+Control de tensión: Mecanismo de control localizado en unidades de generación, controles estáticos y transformadores para garantizar que los voltajes del Sistema Interconectado Nacional operen dentro de bandas seguras. 
+
+Control operativo: Ejecución de maniobras sobre equipos del SIN, con el fin de ajustar las variables operativas del sistema. 
+
+Corto plazo: Se denomina así al contrato para compra o venta de energía en la Bolsa de Energía. 
+
+Costo de prestación del servicio: 
+
+Es el costo económico de prestación del servicio que resulta de aplicar: a) las fórmulas generales de costos establecidas en la regulación de la CREG, sin afectarlo con subsidios ni contribuciones, y b) el costo de comercialización particular aprobado por la Comisión para un determinado prestador del servicio. Sobre el costo de prestación del servicio se determina el valor de la tarifa aplicable al suscriptor o usuario. 
+
+Costo de reposición de un activo: Es el costo de renovar el activo actualmente en servicio, con otro equivalente, de tecnología moderna, que cumpla con la misma función y los mismos estándares de calidad y servicio, valorado a precios de mercado. 
+
+Costo de restricción: Se calcula como la diferencia entre la generación real y la generación en el despacho ideal, valorada a los respectivos costos de reconciliación que se calculan en la Bolsa de Energía. 
+
+Costo incremental: Costo en que incurre un generador para incrementar o disminuir su producción en una unidad de energía. 
+
+Costo incremental de racionamiento: Costo económico en que se incurre cuando se deja de atender una unidad de demanda. 
+
+Costo incremental operativo de racionamiento de energía: Costo incremental de cada una de las plantas de racionamiento modeladas en las metodologías del planeamiento operativo; sus valores se definen como CRO1,CRO2 Y CRO3; es revaluado anualmente por la UPME para aplicarse a partir del comienzo del invierno, y actualizado cada mes de acuerdo con las proyecciones oficiales de los índices de precios al consumidor nacional. 
+
+Costo marginal del sistema: Aumento en el costo total operativo del Sistema Interconectado Nacional debido al incremento de la demanda del mismo en una unidad. El costo adicional es imputable únicamente a unidades de generación flexibles y con nivel de generación superior a cero. 
+
+Costo medio de bolsa: Valor que paga un agente que compra energía en bolsa, por conceptos de potencia, respaldo, reconciliación y penalizaciones, adicionalmente del precio de energía. 
+
+Costo terminal: Costo de oportunidad del agua almacenada en los embalses que representa la operación de un sistema en un horizonte futuro. 
+
+Costo unitario por unidad constructiva: Valor unitario en el mercado de una unidad constructiva ($/Unidad Constructiva). 
+
+Curva de duración de carga: Curva que relaciona los valores de potencia de la demanda y la probabilidad de tiempo de ocurrencia. 
+
+Curva de operación con restricciones totales: Define los niveles mínimos mensuales que hay que mantener en el embalse para la operación sin ningún tipo de restricciones. 
+
+Curva típica de demanda: Curva de carga horaria registrada en un día en el que la operación del sistema ocurre en condiciones normales. 
+
+D DDP: Descripción del proceso. 
+
+Demanda: Cantidad de energía consumida por un agente comercializador o generador, medida en sus fronteras comerciales. 
+
+Demanda ajustada: Demanda atendida en el sistema más las estimaciones de demanda no atendida por diferentes causas. 
+
+Demanda atendida: Cantidad de energía efectivamente consumida por el sistema. 
+
+Demanda comercial: Valor de la demanda real del comercializador, afectada con las pérdidas en las Redes de Transmisión Regional o de Distribución Local y las pérdidas del Sistema de Transmisión Nacional. 
+
+Demanda del comercializador: Se entenderá que la demanda del comercializador en un Sistema de Transmisión Regional es igual a la demanda comercial del mismo en dicho sistema, menos su respectiva participación en las pérdidas del STN. 
+
+Demanda de energía: Carga en kWh solicitada a la fuente de suministro en el punto de recepción durante un periodo de tiempo determinado. 
+
+Demanda de potencia: Carga en kVA o kW solicitada a la fuente de suministro en el punto de recepción en un momento determinado. 
+
+Demanda de potencia pico: Máxima demanda de potencia, expresada en kW, ocurrida o requerida en un instante de tiempo por un grupo de usuarios. Conocida como demanda pico. 
+
+Demanda horaria modificada: Demanda horaria modificada por racionamientos programados. 
+
+Demanda internacional de despacho económico: Coordinado sumatoria de los valores de las demandas correspondientes a las Transacciones Internacionales de Electricidad de corto plazo -TIE-, que son resultado del proceso de despacho económico coordinado, que incluye los factores de pérdidas para referir a nivel de 220 kV y las pérdidas del STN. 
+
+Demanda máxima: Potencia pico consumida en un área o en el Sistema Interconectado Nacional. 
+
+Demanda mínima: Potencia más baja registrada en el consumo de un área o del Sistema Interconectado Nacional. 
+
+Demanda no atendida: Demanda ocasionada por desconexiones programadas y forzadas, causadas por fallas en líneas, transformadores, generadores, mantenimientos y eventos programados por agentes externos. 
+
+Demanda no doméstica: Sumatoria de los valores de las demandas internacionales, que no son consideradas en el despacho económico coordinado, que incluye los factores de pérdidas para referir al nivel de 220 kV y las pérdidas del STN. 
+
+Demanda promedio: Relación entre la energía eléctrica demandada (o generada en el caso de un generador) durante un periodo de tiempo determinado, y dicho periodo de tiempo. 
+
+Demanda real: Diferencia entre la generación real del sistema y las pérdidas reales en el Sistema de Transmisión Nacional. 
+
+Demanda suplementaria: Demanda máxima adicional (MW) que puede requerir un cogenerador conectado al Sistema Interconectado Nacional para cubrir el 100% de sus necesidades de potencia. 
+
+Demanda total: Sumatoria de la demanda total doméstica y la demanda internacional de despacho económico coordinado. 
+
+Demanda total doméstica: Sumatoria de los valores de la demanda doméstica de todos los comercializadores, que incluye los factores de pérdidas para referir a nivel de 220 kV y las pérdidas del STN. 
+
+Derecho de petición: Es el derecho que tiene toda persona a presentar peticiones respetuosas verbales o escritas a las autoridades y a las personas particulares por motivos de interés general o particular y a obtener pronta respuesta. Se encuentra consagrado como derecho fundamental en el artículo 23 de la Constitución Política, y reglamentado en los artículos 5 y siguientes del Código Contencioso Administrativo y la Ley 57 de 1985. 
+
+Desconexión: Interrupción de la corriente eléctrica a través de un activo de conexión o de uso del sistema de potencia. 
+
+Desconexión programada: Poner fuera de servicio un equipo del Sistema Interconectado Nacional por mantenimiento programado. 
+
+Despacho central: Proceso de planeación, programación, supervisión y control de la operación integrada del Sistema Interconectado Nacional, a cargo del Centro Nacional de Despacho en coordinación con los Centros Regionales de Despacho y las empresas, que se realiza siguiendo los criterios y procedimientos establecidos en el Reglamento de Operación, el Código de Redes y los acuerdos del Consejo Nacional de Operación. 
+
+Despacho económico: Programación de la generación para cubrir la demanda esperada, de tal forma que para cada hora se utilicen los recursos de menor precio, cumpliendo con las condiciones límites que tiene el sistema como son los requisitos de reserva rodante, las inflexibilidades y las restricciones. 
+
+Despacho económico coordinado: Es el despacho económico que considera Transacciones Internacionales de Electricidad de corto plazo con otros sistemas despachados económicamente. 
+
+Despacho económico horario: Proceso mediante el cual se obtiene para un periodo de 24 horas el programa horario de generación de los recursos del Sistema Interconectado Nacional despachados centralmente. Además se obtienen las transferencias horarias de energía por las interconexiones internacionales. 
+
+Despacho ideal: Es la programación de generación que se realiza a posteriori en el Sistema de Intercambios Comerciales (SIC), la cual atiende la demanda real con la disponibilidad comercial de las plantas de generación. Este despacho se realiza considerando la oferta de precios por orden de méritos de menor a mayor, sin considerar las diferentes restricciones eléctricas u operativas que existen en el sistema, y considerando las características técnicas de las plantas generadoras. 
+
+Despacho programado: Programa de generación que se realiza para atender una predicción de demanda y que está sujeto a las restricciones del sistema, considerando la declaración de disponibilidad, la oferta de precios y asignando la generación por orden de méritos de menor a mayor. 
+
+Despacho real: Programa de generación realmente efectuado por los generadores, el cual se determina con base en las mediciones en las fronteras de los generadores. 
+
+Desviación: Diferencia entre el despacho programado y la generación real para cada planta o unidad de generación que no participa en la regulación. Si la diferencia excede una tolerancia definida (5%) se aplica un criterio de penalización. Si la generación real está dentro de la banda de tolerancia, o el generador participó como regulador en la operación del sistema, a las unidades o plantas ofertadas no se le evalúa su desviación. 
+
+Diligencia de notificación: Notificar, significa hacer saber, hacer conocer, es comunicarle a las partes y a los terceros las providencias judiciales o decisiones administrativas que se tomen al interior de un proceso. Se realiza en cumplimiento del principio de publicidad, en virtud del cual, las partes deben conocer las decisiones del juez o de la autoridad respectiva con el fin de que puedan hacer uso de los derechos que la ley consagra para impugnarlas o para que, enteradas de su contenido, se dispongan a cumplir lo ordenado en la providencia o en la decisión. Teniendo en cuenta la variedad de providencias judiciales que existen, de su contenido y de la oportunidad en que se dictan dentro del proceso, el legislador estableció diversas formas de notificación, de las cuales una es principal y las otras son subsidiarias. La forma de notificación personal, es la principal, las demás son subsidiarias y son: por estado, por edicto, por conducta concluyente, por estrados o audiencias y por aviso. 
+
+Disponibilidad: Se define como el tiempo total sobre un periodo dado, durante el cual un activo de conexión o de uso estuvo en servicio o disponible para el servicio. La Disponibilidad siempre estará asociada con la capacidad esperada del activo, en condiciones normales de operación. 
+
+Disponibilidad comercial: Disponibilidad calculada en el Sistema de Intercambios Comerciales, la cual considera la declaración de disponibilidad de los generadores, modificada cuando se presenten cambios en la operación real del sistema para las unidades de generación. Se calcula a partir de la disponibilidad real y de la disponibilidad declarada por los agentes generadores que representan las plantas ante el SIC. 
+
+Disponibilidad de generación: Máxima cantidad de potencia neta (megavatios) que un generador puede suministrar al sistema durante un intervalo de tiempo determinado. 
+
+Disponibilidad declarada: Máxima cantidad de potencia neta (expresada en valor entero en megavatios) que un generador puede suministrar al sistema durante el intervalo de tiempo determinado para el despacho económico o el redespacho, reportada por la empresa propietaria del generador. 
+
+Disponibilidad real: Disponibilidad promedio calculada a partir de la fecha de los eventos que modifican la disponibilidad de las unidades de generación de los generadores, así como de la disponibilidad reportada al Centro Nacional de Despacho al ocurrir el cambio de estado de una unidad. 
+
+Distribuidor Local (DL): Persona jurídica que opera y transporta energía eléctrica en un Sistema de Distribución Local, o que ha constituido una empresa en cuyo objeto está el desarrollo de dichas actividades. 
+
+E Edicto emplazatorio: Es una forma de notificación subsidiaria, y está definido como el emplazamiento que se hace a quien debe ser notificado personalmente y no comparece a hacerlo. 
+
+Elementos técnicos: Representan los equipos y/o materiales que conforman las unidades constructivas. 
+
+Embalse agregado: Sumatoria de los embalses del Sistema Interconectado Nacional; puede expresarse en volumen o en energía equivalente. 
+
+Enlace internacional: Conjunto de líneas y equipos asociados, que conectan los sistemas eléctricos de dos (2) países, y que tienen como función exclusiva el transporte de energía para importación o exportación, a nivel de tensión 4 o superior. 
+
+Equipo terminal de comunicación: Equipo necesario para que CND y un agente del SIN se conecten a un canal de comunicaciones. 
+
+Esquema de deslastre automático de carga: Conjunto de protecciones que actúan coordinadamente bajo un evento de pérdida de generación de magnitud en el sistema previniendo un colapso total mediante la desconexión en cantidades específicas y en tiempos particulares. También denominado eyección automática de carga. 
+
+Estado de alerta: Estado de operación que se encuentra cercano a los límites de seguridad y que ante la ocurrencia de una contingencia puede alcanzar un estado de emergencia. 
+
+Estado de emergencia: Es el estado de operación que se alcanza cuando se violan los límites de seguridad del sistema de potencia, o no se puede atender totalmente la demanda. Igualmente, se considera como tal el aislamiento de una o más áreas del SIN. 
+
+Estructura del calendario: Documento que especifica los prerrequisitos que deben cumplir los interesados en asistir a los seminarios para facilitar la adquisición lógica y ordenada del conocimiento sobre los procesos del mercado. 
+
+Estructura tarifaria: El conjunto de cargos previstos en la resolución CREG-113 de 1996. 
+
+Etapa de pruebas: Periodo previo a la puesta en operación comercial de un equipo del Sistema Interconectado Nacional, o de equipos existentes cuando entran en operación después de un mantenimiento prolongado. La fecha de iniciación de la operación comercial es definida por la empresa propietaria. 
+
+Evento: Es la situación que cause la indisponibilidad parcial o total de un activo de uso del STN o de un Activo de Conexión al STN y que ocurre de manera programada o no programada. 
+
+F Factor de carga: Relación entre la demanda promedio y la demanda pico. 
+
+Factor de conversión: Relación entre la cantidad de combustible o agua de una planta y la energía que genera. 
+
+Factor de diversidad: Relación entre la demanda máxima de potencia de un sistema y la suma de las demandas de potencia de los subsistemas que lo conforman. 
+
+Factor de Instalación (FI): Factor multiplicador aplicable al costo FOB de una unidad constructiva, que involucra todos aquellos costos y gastos adicionales en que se incurre para la puesta en servicio o puesta en operación de la unidad constructiva correspondiente. Se expresa en porcentaje del costo FOB. 
+
+Factor de planta: Relación entre la energía media generada en un periodo y el tiempo de servicio. 
+
+Factor de potencia: Relación entre la potencia activa (MW) y la potencia aparente (MVA) en un equipo o punto de la red. 
+
+Factor de utilización: Relación entre la demanda promedio de un sistema o parte del mismo y su capacidad instalada. 
+
+Ficha de análisis regulatorio: Documento en el cual se presenta un análisis de los impactos de las nuevas resoluciones, leyes, decretos y demás normas, que afectan las responsabilidades y los procesos del MEM. La ficha contiene, además de la descripción de la norma, los principales elementos en que se afectan los procesos que realiza el MEM en sus funciones de administrador del SIC y liquidador y administrador de cuentas del STN. 
+
+Ficha técnica calendario: Documento en el que se detalla el objetivo del seminario, el lugar y la fecha de realización, el contenido global, a quién va dirigido, su valor y cómo proceder en caso de que la persona deba pagar por asistir al seminario. 
+
+Fondo de Apoyo Financiero para la Energización de las Zonas No Interconectadas (FAZNI): Es un fondo de cuenta especial de manejo de recursos públicos y privados, sin personería jurídica, sujeto a las normas y procedimientos establecidos en la Constitución Política de Colombia, el Estatuto Orgánico del presupuesto General de la Nación y las demás normas legales vigentes aplicables al mismo. Creado por el artículo 81 y siguientes de la Ley 633 de 2000. 
+
+Fórmulas generales para determinar el costo de prestación del servicio: Son las ecuaciones que permiten calcular el costo de prestación del servicio, en función de la estructura de costos económicos, independientemente de los subsidios o contribuciones. 
+
+Frecuencia: La oscilación por unidad de tiempo de la forma de onda periódica de voltaje o corriente en un circuito de corriente alterna. En Colombia el sistema eléctrico tiene una frecuencia de 60 hertz (ciclos por segundo). 
+
+Frecuencia de utilización: Frecuencia con la cual deben ser actualizados los resultados de cada una de las metodologías necesarias para efectuar el planeamiento de la operación del Sistema Interconectado Nacional. 
+
+Frecuencia media de interrupción: TE. Primer indicador utilizado para monitorear la continuidad del servicio de transporte de energía eléctrica; expresa el número de interrupciones que puede esperar un consumidor en un periodo de tiempo, originadas a partir o a través de las redes de transmisión. 
+
+Frontera comercial: El punto de conexión de generadores y comercializadores a las redes del Sistema de Transmisión Nacional, a los Sistemas de Transmisión Regional y a los Sistemas de Distribución Local. Sólo define el punto de medición pero no la responsabilidad por las pérdidas en los sistemas de transmisión y distribución. Así, cada agente participante del mercado mayorista puede tener uno o más puntos de frontera comercial. Son fronteras comerciales los puntos de entrega de energía neta de los generadores; de conexión al sistema de transmisión nacional, regional o local; de consumo de alumbrados públicos; usuarios no regulados y usuarios regulados atendidos por un comercializador diferente al de su mercado de comercialización; y puntos de consumos auxiliares de generadores. 
+
+Frontera embebida: Es la frontera comercial de un usuario o generador embebido que se conecta al SIN mediante los activos de conexión de terceros a través de una frontera principal. 
+
+Frontera principal: Es la frontera comercial de un usuario no regulado, a partir de la cual se encuentran conectados la frontera comercial y los activos de conexión al Sistema Interconectado Nacional de un generador embebido, de un usuario o de varios de los anteriores. 
+
+G Garantía: Tiene como finalidad asegurar el cumplimiento de las obligaciones que surjan a cargo de generadores y comercializadores en el mercado mayorista correspondientes a transacciones de energía en bolsa, reconciliaciones, servicios complementarios, cargos por uso del Sistema de Transmisión Nacional, servicios del Centro Nacional de Despacho y de los Centros Regionales de Despacho y, en general, por cualquier concepto que deba ser pagado al ASIC y al LAC. GCU: Costo Unitario de Generación. 
+
+Generación bruta: Generación total de una planta, medida por contadores instalados en los bornes del generador. 
+
+Generación de seguridad: Generación que se requiere para garantizar condiciones de seguridad y confiabilidad, en la operación del Sistema Interconectado Nacional (SIN). Esta generación es programada por el CND en el despacho y redespacho programado, para que se cumplan los tres criterios fundamentales de la operación: (seguridad, confiabilidad y economía). Estos recursos que prestan la generación de seguridad, desoptimizan el despacho y redespacho programado. 
+
+Generación de seguridad fuera de mérito: Generación forzada requerida para suplir las restricciones del SIN, cuyo precio de oferta es superior al precio de bolsa. 
+
+Generación embebida: Situación que se presenta cuando la frontera que relaciona a un generador con un comercializador está ubicada sobre una red diferente al Sistema de Transmisión Nacional; entonces se dice que esa unidad de generación está embebida en el comercializador. 
+
+Generación filo de agua: Generación hidráulica de las plantas sin capacidad de regulación. 
+
+Generación fuera de mérito: Generación requerida en el sistema que está por encima del precio marginal. 
+
+Generación ideal: Despacho de generación que resulta de considerar una red de transporte inexistente. 
+
+Generación mínima por seguridad: Mínima generación requerida para garantizar adecuada tensión y aliviar sobrecargas en alguna zona del Sistema de Transmisión Nacional, de un Sistema de Transmisión Regional o de un Sistema de Distribución Local. Se calcula tanto para el mediano como para el largo plazo. 
+
+Generación mínima técnica: Mínima generación a la que puede operar una unidad de generación en condiciones normales de operación. 
+
+Generación neta: Generación entregada por una planta al Sistema Interconectado Nacional en el punto de conexión. 
+
+Generación real: Se calcula como la sumatoria de las generaciones netas medidas a nivel horario para cada uno de los agentes generadores en sus puntos de frontera. 
+
+Generador embebido: En el ámbito de esta resolución, se refiere a generadores de energía eléctrica con fuentes convencionales y fuentes no convencionales, cogeneradores y plantas menores. 
+
+Generadores: Persona natural o jurídica que produce energía eléctrica. 
+
+Gravamen a los Movimientos Financieros (GMF): Impuesto sobre transacciones financieras definido en el artículo 1o. de Ley 633 de 2001, o en las demás normas que lo modifiquen o sustituyan. 
+
+H Horizonte del planeamiento operativo: 
+
+El periodo de tiempo cubierto por cada una de las etapas del planeamiento operativo: largo plazo (5 años), mediano plazo (5 semanas), corto plazo (24 horas) y muy corto plazo (desde la hora actual hasta el final del día). 
+
+I Índice de disponibilidad: Se define como el porcentaje de tiempo total sobre un periodo dado, durante el cual un activo de conexión al STN o de uso del STN, estuvo en servicio o disponible para el servicio. Se excluyen regulatoriamente algunas indisponibilidades para calcular este índice. 
+
+Índice de indisponibilidad de corto plazo: La parte de la indisponibilidad histórica para cada unidad generadora ocasionada por eventos diferentes a mantenimientos programados en los últimos 3 años. 
+
+Índice de indisponibilidad histórica: La indisponibilidad para cada unidad generadora ocasionada por limitaciones de su capacidad efectiva y por desconexiones programadas durante los tres últimos años. 
+
+Indisponibilidad parcial: Se define como el tiempo equivalente sobre un periodo dado, durante el cual un activo de conexión al STN o de uso del STN, estuvo disponible pero con capacidad reducida. 
+
+Indisponibilidad total: Se define como el tiempo total sobre un periodo dado, durante el cual un activo de conexión al STN o de uso del STN no estuvo en servicio o disponible para el servicio. Se entiende que un activo está indisponible cuando este no está disponible para el servicio, independientemente de que su función esté siendo suplida por otro activo del SIN. 
+
+Inflexibilidad de unidades: Una unidad es inflexible cuando las características técnicas de la unidad hacen que genere en una hora a pesar de que su precio de oferta es superior al costo marginal del sistema. 
+
+Informe técnico: Es prerrequisito para resolver un recurso de reposición. Lo elabora el personal técnico de la gerencia que haya tenido relación con el objeto de la reclamación. Partiendo del informe técnico se analizan los aspectos regulatorios y legales que se involucran en las peticiones del recurrente y se resuelve el asunto. IPP: Índice de Precios al Productor total nacional. 
+
+J K L Largo plazo: Modalidad de contrato de energía en que generadores y comercializadores pactan libremente cantidades y precios para la compra y venta de energía eléctrica a plazos superiores a 1 día. 
+
+Libertad regulada: Régimen de tarifas mediante el cual la Comisión de Regulación de Energía y Gas fija los criterios y la metodología con arreglo a los cuales las empresas que presten el servicio público domiciliario de comercialización de energía eléctrica, pueden determinar o modificar los precios máximos que cobrarán a los usuarios finales regulados por el citado servicio. Tales criterios y metodologías se expresan mediante las fórmulas contenidas en esta resolución. 
+
+Límite de confiabilidad de energía: Máximo nivel aceptable de riesgo en el suministro de la demanda de energía. 
+
+Límite de confiabilidad de potencia: Máximo nivel aceptable de riesgo en el suministro de la demanda de potencia. 
+
+Liquidación y Administración de Cuentas por concepto de cargos por uso del STN (LAC): O la entidad que asuma sus funciones, conforme a lo establecido en el Decreto 1171 de 1999. Entidad encargada de la liquidación, facturación y cobro de los cargos por uso de las redes del Sistema de Transmisión Nacional, así como de calcular la remuneración de los transmisores y sus correspondientes compensaciones por calidad en el STN. 
+
+Liquidador y Administrador de Cuentas (LAC): Entidad encargada de liquidar y facturar los cargos de uso de las redes del Sistema Interconectado Nacional que le sean asignadas, de determinar el ingreso regulado a los transportadores y de administrar las cuentas que por concepto del uso de las redes se causen a los agentes del mercado mayorista, de acuerdo con la regulación vigente. 
+
+M Mantenimiento programado: Mantenimiento de equipos que es reportado por las empresas al CND para ser considerado en la coordinación integrada de mantenimientos. 
+
+Mantenimiento mayor: Es aquel mantenimiento sobre activos de conexión al STN o activos de uso del STN, que se realizan por una vez cada seis (6) años y que requieren un tiempo mayor al de la meta de indisponibilidad anual fijada para dichos activos. 
+
+Manual de descripción de documentos de la Dirección Servicios de Información -DSI- : Manual que contiene toda la información relacionada con los documentos, presentaciones, boletines, publicaciones e informes desarrollados en Servicios de Información. 
+
+Marco regulatorio y legal: Lo conforman todas las resoluciones expedidas por la Comisión de Regulación de Energía y Gas y toda la legislación vigente en Colombia, partiendo del marco general, como lo es la Constitución política y conformado entre otros por los códigos, las leyes, decretos y resoluciones. 
+
+Mercado de comercialización: Es el conjunto de usuarios regulados conectados a un mismo Sistema de Transmisión Regional y/o Distribución Local. 
+
+Mercado de Energía Mayorista (MEM): Es el encargado de la administración del Sistema de Intercambios Comerciales - ASIC- mediante el registro de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago del valor de los actos o contratos de energía en la bolsa por generadores y comercializadores. Liquida y Administra las cuentas de cargos por uso de las Redes del Sistema Interconectado Nacional -LAC- realizando el cálculo de ingresos y compensaciones de los transportadores y distribuidores, la liquidación y facturación de cargos para comercializadores y la gestión financiera del proceso. Presta servicios de información (con y sin valor agregado) a los interesados en el mercado para la toma de decisiones en las empresas. 
+
+Mercado libre: El mercado de energía eléctrica en que participan los usuarios no regulados y quienes los proveen de energía eléctrica. 
+
+Mercado mayorista: Conjunto de sistemas de intercambio de información entre generadores y comercializadores de grandes bloques de energía eléctrica en el Sistema de Intercambios Comerciales, para realizar contratos de energía a largo plazo y en la Bolsa de Energía sobre cantidades y precios definidos, con sujeción al Reglamento de Operación y demás normas aplicables. 
+
+Mercado meta: Conjunto bien definido de clientes cuyas necesidades proyecta satisfacer la empresa. 
+
+Mercado regulado: Mercado de energía eléctrica en el que participan los usuarios regulados y quienes los proveen de electricidad. 
+
+Mercado regulatoriamente integrado de electricidad: Conjunto de mercados de electricidad, administrados y coordinados bajo reglas fundamentales comunes y criterios regulatorios de eficiencia económica. 
+
+Metodología de ingreso: Metodología de remuneración mediante la cual la comisión establece, para cada operador de red, los ingresos que requiere para remunerar los activos de uso del nivel de tensión 4 y los activos de conexión al STN, y que sirven para calcular los cargos de los STR. 
+
+Metodología de precio máximo (Price Cap): Metodología de remuneración mediante la cual la comisión aprueba, para cada operador de red, los cargos máximos por unidad de energía transportada en los niveles 1, 2 y 3 de su sistema. 
+
+Modo jerárquico de AGC: Modo de regulación de frecuencia en el cual más de un agente generador (planta o Centro Regional de Despacho) comparte la regulación secundaria de la frecuencia con factores de participación previamente acordados para cada uno de ellos y coordinados por el CND. 
+
+Módulo: Es el conjunto de equipos de compensación capacitiva o reactiva y equipos asociados que se conectan a bahías de compensación. 
+
+Módulo Común: Conjunto de equipos comunes que sirven a toda una subestación, tales como servicios auxiliares, protección de barras, SCC común, etc. 
+
+N Neón: Aplicativo de consulta en línea e interactivo, para la información histórica de las variables de mayor relevancia en la operación y administración del mercado eléctrico colombiano, organizada de manera integrada y consistente. Neón está soportado en la más grande base de información del sector eléctrico colombiano, la cual utiliza herramientas de 
+
+Data Warehousing y posee dos tipos de licencias de consulta: Neón Ultra, que tiene acceso a toda la información histórica de todas las variables y Neón Público. 
+
+Neutralidad: 1. No tener favorecimientos con ningún cliente en particular. 2. Manejo de información con criterios de confidencialidad. 3. Aplicación de todas las normas dadas por las resoluciones, y en caso de hallar vacíos, proponer nuevas reglamentaciones que garanticen la viabilidad del mercado. 
+
+Nivel de espera: Elevación de la superficie del agua en el embalse definida para la regulación de crecientes. Es el volumen definido entre el nivel máximo y el nivel de espera. 
+
+Nivel máximo físico: Capacidad de almacenamiento de agua en un embalse. 
+
+Nivel máximo operativo: Volumen de agua resultante de la diferencia entre el volumen útil y el volumen de espera. 
+
+Nivel mínimo físico: Cantidad de agua almacenada que por condiciones de su captación no es posible utilizar para la generación de energía eléctrica. 
+
+Nivel mínimo operativo: Nivel mensual de los embalses que constituye una reserva energética para cubrir condiciones predeterminadas de confiabilidad. 
+
+Nivel mínimo operativo inferior: Límite operativo de un embalse, por debajo del cual el precio de oferta de las plantas asociadas debe ser mayor que el CR01 del Sistema Interconectado Nacional en cada hora. 
+
+Nivel mínimo operativo superior: Límite operativo de un embalse por debajo del cual solo se permite utilizar la energía almacenada si todas las unidades térmicas están despachadas. 
+
+Nivel mínimo técnico: Elevación de la superficie del agua en el embalse hasta la cual puede utilizarse su agua, cumpliendo con condiciones de seguridad en las estructuras hidráulicas y en las instalaciones de generación. 
+
+Niveles de tensión: Los Sistemas de Transmisión Regional y/o Distribución Local se clasifican por niveles, en función de la tensión nominal de operación, según la siguiente definición: nivel 4: sistemas con tensión nominal mayor o igual a 57.5 kV y menor a 220 kV. 
+
+Nivel 3: sistemas con tensión nominal mayor o igual a 30 kV y menor de 57.5 kV. 
+
+Nivel 2: sistemas con tensión nominal mayor o igual a 1 kV y menor de 30 kV. 
+
+Nivel 1: sistemas con tensión nominal menor a 1 kV. 
+
+Nodos fronteras de los enlaces internacionales: Puntos de conexión al SIN de los enlaces internacionales, utilizados como referencia para efectos de comparación de precios para transacciones internacionales de electricidad. 
+
+O Operación ejecutada: Operación ocurrida en el día, basada en el despacho de corto plazo y modificada por los cambios en supuestos de generación y transmisión que sucedieron en la operación. 
+
+Operación integrada: Forma de operación en la cual los recursos de generación centralmente despachados se utilizan para cubrir la demanda cumpliendo con los criterios adoptados de seguridad, confiabilidad y calidad del servicio, y despacho por orden de mérito de costos. 
+
+Operación real: Operación despachada para el periodo horario considerando los cambios que ocurren en la red y las variaciones de generación. Operador de Red de STR´s y/o SDL´s (OR): Es la persona encargada de la planeación de la expansión y de las inversiones, operación y mantenimiento de todo o parte de un STR o SDL; los activos pueden ser de su propiedad o de terceros. Para todos los propósitos son las empresas que tienen cargos por uso de los STR´s y/o SDL´s aprobados por la CREG. El OR siempre debe ser una empresa de servicios públicos. 
+
+Orden de méritos: Ordenamiento con base en los precios de oferta de los generadores. 
+
+P Pague lo contratado: Tipo de contrato del Mercado de Energía Mayorista en el que el comercializador se compromete a pagar toda la energía contratada, independiente de que esta sea consumida o no. Si el consumo es mayor que la energía contratada, la diferencia se paga al precio de la Bolsa de Energía. Si el consumo es menor que la energía contratada, este excedente se le paga al comercializador al precio de la bolsa. 
+
+Pague lo contratado-condicional: Tipo de contrato que en caso de ser despachado tiene el tratamiento que se le da a un contrato tipo pague lo contratado. Este contrato solo se despacha si, con base en el precio (orden de méritos), se requiere total o parcialmente para atender la demanda del comercializador. 
+
+Pague lo demandado: Tipo de contrato del Mercado de Energía Mayorista en el que el agente comprador solamente paga (a precio de contrato) su consumo, siempre y cuando este sea inferior o igual a la cantidad de energía contratada (tope máximo). Si el consumo es superior, la diferencia se liquida al precio de la Bolsa de Energía. También denominado pague lo consumido. 
+
+Penalización por desviación: Se aplica a generadores que no se definan para la hora en proceso como reguladores del sistema y que no han sido autorizados por el Centro Nacional de Despacho para modificar su programa de generación. 
+
+Pérdida real: La diferencia entre la sumatoria de las importaciones y exportaciones de energía a nivel horario en los puntos de frontera comercial del Sistema de Transmisión Nacional. Se calcula con base en todos los contadores ubicados en fronteras comerciales, en los cuales el Sistema de Transmisión Nacional está involucrado como agente exportador o agente importador. 
+
+Pérdidas en el STN: Sumatoria de las inyecciones de energía al Sistema de Transmisión Nacional (flujos de baja a alta tensión), menos la sumatoria de los flujos que salieron del Sistema (flujos de alta a baja tensión). 
+
+Periodo de carga máxima: 
+
+Corresponde a las horas comprendidas entre las 9:00 y las 12:00 horas y entre las 18:00 y las 21:00 horas del día. 
+
+Periodo de carga media: 
+
+Corresponde a las horas comprendidas entre las 4:00 y las 9:00 horas, entre las 12:00 y las 18:00 horas, y entre las 21:00 y las 23:00 horas del día. 
+
+Periodo de carga mínima: 
+
+Corresponde a las horas comprendidas entre las 00:00 y las 4:00 horas y las 23:00 y las 24:00 horas. 
+
+Periodo de regulación: Mínimo periodo de tiempo durante el cual las decisiones de descarga de un embalse efectuadas al principio de ese periodo, no afectan las decisiones de descarga del mismo embalse que se efectúan con posterioridad al periodo. 
+
+Periodo de resolución: Tiempo utilizado en cada una de las metodologías empleadas para planear la operación del Sistema de Transmisión Nacional. 
+
+Periodo de transición: Periodo de un año a partir de la entrada en operación de las Transacciones Internacionales de Electricidad de corto plazo -TIE-. Los reguladores de cada país podrán ajustar los procedimientos y regulación aplicable a las TIE, de acuerdo con la experiencia valorada durante este periodo. 
+
+Periodos estacionales: Verano, comprendido entre diciembre 1 y abril 30; invierno, comprendido entre mayo 1 y noviembre 30. 
+
+Plan indicativo eléctrico: Servicio de información eléctrica y energética de ISA por medio del cual se suministra a los clientes información sobre las principales variables eléctricas para garantizar una adecuada planeación y operación del Sistema Interconectado Nacional. 
+
+Plan indicativo energético: Servicio de información eléctrica y energética de ISA que provee de información técnica y económica a los clientes para la toma de decisiones de operación e inversión en el Sistema Interconectado Nacional. 
+
+Plantas centralmente despachadas: Las plantas de generación con capacidad efectiva mayor a 20 MW y las menores o iguales a 20 MW que quieran participar en el despacho económico. 
+
+Plantas menores: Plantas de baja capacidad que no se incluyen en forma desagregada en la operación del Sistema Interconectado Nacional. 
+
+Poder: Consagrado en el artículo 65 del Código de Procedimiento Civil, y es el escrito que la parte interesada confiere a quien profesionalmente pueda representarlo manera general o especial en un proceso judicial o administrativo. 
+
+Potencia nominal: Potencia en MW a la que puede operar un equipo sin presentar pérdida de vida útil o daños atribuibles a la operación del mismo. 
+
+Precio de desviación: Equivale al valor absoluto de la diferencia entre la generación real y el despacho programado, multiplicado por el valor absoluto de la diferencia entre el precio de oferta y el precio de la bolsa. 
+
+Precio de importación para liquidación: Precio que paga el mercado importador equivalente al precio marginal del mercado, resultante de su despacho ideal, que incluye el Precio de Oferta en cada Nodo Frontera para Exportación de los otros países, incrementado por los cargos regulatoriamente reconocidos asociados con la generación. 
+
+Precio de Oferta en el Nodo Frontera para Exportación -PONE- : Precio estimado al cual se ofrece energía a través de un enlace internacional, determinado por el Centro Nacional De Despacho - CND-, el cual incluye los costos reconocidos regulatoriamente asociados con la entrega de dicha energía en el Nodo Frontera. 
+
+Precio en bolsa: -En condiciones normales de operación, corresponde al mayor precio de oferta de las unidades con despacho centralizado que han sido programadas para generar en el despacho ideal y que no presentan inflexibilidad. Representa un precio único para el sistema interconectado en cada periodo horario. -En condiciones de intervención de precios de oferta, se determina de acuerdo con el procedimiento para condiciones normales de operación, pero teniendo en cuenta los precios intervenidos de oferta para las plantas de generación hidroeléctrica con embalse, definidos en el Código de Operación. 
+
+Precio marginal del Nodo Frontera de Redespacho: Precio del último recurso de generación que no presenta limitaciones técnicas, requerido para cubrir la demanda en el Nodo Frontera de los Enlaces Internacionales para exportación, considerado en el Redespacho. 
+
+Precio máximo de importación: Precio máximo calculado por el Centro Nacional De Despacho -CND-, al que estaría dispuesto a comprar el sistema colombiano, la energía de otro sistema eléctrico, y al cual se decide una importación de energía. 
+
+Preconstrucción: Se entiende por preconstrucción, la realización de los trámites o acciones asociadas con la ejecución de un proyecto y que se requieren con antelación inmediata a la construcción física de las obras. 
+
+Principio de libre acceso a la red nacional de interconexión: Principio legal, por el cual los propietarios de la red nacional de interconexión, deben permitir la libre conexión y el uso de las mismas, por parte de cualquier agente habilitado legalmente para ello, en condiciones de igualdad y neutralidad, y cumpliendo las exigencias técnicas y económicas respectivas. 
+
+Producer Price Index (PPI): Índice de Precios al Productor de los Estados Unidos de América, correspondiente a bienes de capital, reportado por la oficina de 
+
+Estadísticas Laborales del Departamento de Trabajo de los Estados Unidos (Serie ID: WPSSOP3200). 
+
+Programa de generación: Asignación de generación de las unidades o plantas despachadas centralmente. 
+
+Programa despacho económico horario: Programa de generación de las unidades del Sistema Interconectado Nacional en cada una de las horas del día, producido por el despacho económico. 
+
+Programación para la elaboración de documentos del mercado: Cronogramas y listados donde especifican responsables y fechas de entrega para la elaboración de los informes y boletines que emite Servicios de Información. 
+
+Proponente: Se entiende por proponente, una persona natural o jurídica, un consorcio o una unión de ellas, que presenta una oferta en un proceso de convocatoria pública para la expansión del STN. 
+
+Proyecto: Es el conjunto de actividades que hacen que un proceso cambie de un estado a otro de mejor desempeño, o que implementa cambios regulatorios que afectan el Mercado de Energía Mayorista. 
+
+Punto de conexión al STN: Es un barraje o cualquier tramo de una línea de transmisión perteneciente al STN, con tensión igual o superior a 220 kV, al cual se encuentra conectado o proyecta conectarse un generador, un Transmisor Nacional, un usuario no regulado o un Operador de Red de STR´s y/o SDL´s. 
+
+Q R Racionamiento: Corte programado de energía o potencia por razones preventivas o de emergencia. 
+
+Reconciliación: Costos debidos a generación obligatoria para asegurar la contabilidad y calidad de la operación del sistema. Establece la compensación (positiva o negativa) que se debe aplicar a los generadores, para cada uno de sus recursos ofertado, cuando se presentan desviaciones. 
+
+Reconciliación positiva: Se le asigna a un agente cuando presenta generación real mayor a su generación ideal durante un periodo. Al agente se le hace un cálculo estimado de sus costos de generación durante ese periodo y le asignan a ese valor la diferencia entre la generación real e ideal por concepto: ventas de reconciliación. 
+
+Reconciliación negativa: Se le asigna a un agente cuando presenta generación real menor a su generación ideal durante un periodo. Se calcula un promedio aritmético del precio ofertado por el agente y del precio de bolsa y le recaudan a ese precio resultante la diferencia entre la generación ideal y real por concepto: compras en reconciliación. 
+
+Recurso de reposición: El recurso se define como el instrumento que tiene la parte interesada y los terceros habilitados para intervenir en un proceso y solicitar en la oportunidad legal la reforma o revocatoria de un acto que ponga fin a una situación jurídica de carácter particular y concreta. El recurso de reposición se encuentra definido como aquel que se interpone ante el mismo juez o funcionario que expidió el acto con el objeto de que la aclare, modifique o revoque. Este recurso busca que el mismo funcionario que profirió la decisión sea el que vuelva sobre ella y, si es del caso reconsiderarla, en forma total o parcial. Se encuentra consagrado en el artículo 348 del Código de Procedimiento Civil y en los artículos 50 y 180 del Código Contencioso Administrativo como normas generales. Para el caso de las liquidaciones realizadas por ISA en su calidad de ASIC para los agentes que participan en el mercado mayorista, el Recurso de reposición se encuentra consagrado en las Resoluciones CREG 024 de 1995, modificada por la Resolución CREG 047 de 2000 y CREG 029 de 2001. 
+
+Red de interconexión: Líneas, subestaciones y equipos asociados que interconectan las regiones. 
+
+Red nacional de interconexión: Conjunto de líneas y subestaciones, con sus equipos asociados, incluyendo las interconexiones internacionales, destinadas al servicio de todos los integrantes del Sistema Interconectado Nacional. 
+
+Redespacho: Ajustes del despacho debido a cambios en los supuestos del sistema como la salida de unidades o aumento de disponibilidad. 
+
+Reglamento de operación: Conjunto de principios, criterios y procedimientos establecidos para realizar el planeamiento, la coordinación y la ejecución de la operación del Sistema Interconectado Nacional y para regular el funcionamiento del mercado mayorista de energía eléctrica. El reglamento de operación comprende varios documentos que se organizarán conforme a los temas propios del funcionamiento del Sistema Interconectado Nacional. 
+
+Regulación Automática de Generación: Automatic generation control. Sistema para el control de la regulación secundaria, usado para acompañar las variaciones de carga a través de la generación, controlar la frecuencia dentro de un rango de operación y los intercambios programados. Puede programarse de modo centralizado, descentralizado o jerárquico. 
+
+Regulación primaria: Variación inmediata de la potencia entregada por el generador como respuesta a cambios de la demanda atendida. 
+
+Rentas de congestión: Rentas económicas que se originan como efecto de la congestión de un enlace internacional, son efecto de las diferencias de precios que se tienen en los Nodos Frontera congestionados, son de carácter temporal y dependen de las expansiones en transmisión. Estas rentas no serán asignadas a los propietarios de los enlaces internacionales y no constituyen fuente de remuneración para la generación. 
+
+Requerimiento especializado de información: Toda aquella solicitud proveniente de un organismo de planeación, regulación, seguimiento, vigilancia y control o de cualquier interesado que haga referencia a información histórica del mercado o aquellas solicitudes que provengan. 
+
+Regulación secundaria: Ajuste automático o manual de la potencia del generador para restablecer la frecuencia nominal del sistema y los intercambios internacionales programados. 
+
+Reserva bruta de energía: Total de energía almacenada en un embalse, desde la cota mínima de captación hasta su valor máximo. 
+
+Reserva de regulación primaria: Reserva rodante en las plantas que responden a cambios súbitos de frecuencia en un lapso de 0 a 10 segundos. La variación de carga de la planta debe ser sostenible al menos durante los siguientes 30 segundos. 
+
+Reserva de regulación secundaria: Reserva rodante en las plantas que responden a la variación de generación y que debe estar disponible a los 30 segundos a partir del momento en que ocurra el evento. Debe poder sostenerse al menos durante los siguientes 30 minutos de tal forma que tome la variación de las generaciones de las plantas que participaron en la regulación primaria. 
+
+Reserva neta de energía: Reserva bruta menos la energía no disponible por cualquier tipo de causa. 
+
+Reserva operativa: Diferencia entre la suma de las capacidades disponibles de las unidades generadoras y la suma de la generación programadas de las mismas en la hora considerada. 
+
+Reserva para regulación de frecuencia: Parte de la reserva rodante destinada a realizar la regulación de frecuencia. 
+
+Reserva rodante: La parte de la reserva operativa ubicada en plantas que están operando y pueden responder a cambios de generación en periodos de hasta 30 segundos. 
+
+Respaldo: Capacidad de generación de energía no necesaria para atender la demanda al nivel de confiabilidad de 95%, pero que se encuentra disponible para atender la demanda de energía en casos extremos, de acuerdo con los criterios de flexibilidad y vulnerabilidad adoptados por la UPME en la elaboración del plan de expansión de referencia. Este concepto se reconoce a generadores cuyas plantas hacen parte del respaldo. 
+
+Restablecimiento: Procedimiento empleado para llevar al sistema de potencia, de un estado de emergencia al estado normal de operación. 
+
+Restricción: Límite físico u operativo que se presenta en la operación del SIN, que disminuye las transferencias de potencia por las líneas de transmisión, activos de conexión e interconexiones internacionales, por causas como: límite de temperatura, sobrecargas, estabilidad, etc. Surgen por la aplicación de criterios de seguridad y confiabilidad en el suministro de electricidad. 
+
+Restricción global: Generación requerida para dar soporte de tensión o estabilidad al Sistema de Transmisión Nacional (220 kV o más). 
+
+Restricción regional: Generación requerida por restricciones de transformación, soporte regional de tensión, o estabilidad de Sistemas de Transmisión Regional y/o Distribución Local. 
+
+Restricciones: Generaciones requeridas para garantizar voltajes adecuados, estabilidad del sistema e intercambios seguros a nivel del Sistema de Transmisión Nacional y a nivel regional. 
+
+S Sector eléctrico colombiano: Conjunto de participantes del Mercado de Energía Mayorista colombiano que hacen parte de la cadena productiva, así: generadores, transmisores, distribuidores y comercializadores. 
+
+Seguridad: En servicios de transmisión de energía eléctrica y operación del Sistema Interconectado Nacional, no pérdidas en situaciones de perturbaciones o apagones. 
+
+Servicio de conexión al STN: Es el servicio de acceso al STN que presta el propietario de un activo de conexión, que se rige por el contrato de conexión que acuerdan y firman las partes. 
+
+Servicio de transporte de energía eléctrica en el STN: Es el servicio de transmisión de energía que se presta a través de los activos de uso del STN. 
+
+Servicio gestión de restricciones: Servicio para evaluar la gestión técnica, operativa y comercial de las restricciones de las redes del Sistema Interconectado Nacional, propiedad de los diferentes agentes del Mercado de Energía Mayorista. 
+
+Servicios auxiliares: Equipos que participan en el funcionamiento de los generadores y subestaciones, actuando en la alimentación de los equipos de mando y control de los mismos. 
+
+Sistema de cogeneración inflexible: Aquel cuyas características técnicas hacen que genere en una hora más energía de la requerida por su proceso productivo. 
+
+Sistema de Distribución Local (SDL): Sistema de transmisión de energía eléctrica compuesto por redes de distribución municipales o distritales; conformado por el conjunto de líneas y subestaciones, con sus equipos asociados, que operan a tensiones menores de 220 kV que no pertenecen a un Sistema de Transmisión Regional por estar dedicadas al servicio de un sistema de distribución municipal, distrital o local. 
+
+Sistema de Intercambios Comerciales (SIC): Conjunto de reglas y procedimientos establecidos en el reglamento de operación que permite definir las obligaciones y acreencias de los generadores, los comercializadores y los transportadores por concepto de los actos o contratos de energía en la bolsa conforme al despacho central. El SIC incluye el proceso de liquidación del valor de los intercambios, la preparación y actualización del estado de cuenta de cada generador y comercializador que participa en la Bolsa de Energía y de los transportadores, y la facturación, pago y recaudo del valor de las transacciones realizadas en la misma bolsa. 
+
+Sistema de Transmisión Nacional (STN): Es el Sistema Interconectado de Transmisión de energía eléctrica compuesto por el conjunto de líneas, con sus correspondientes módulos de conexión, que operan a tensiones iguales o superiores a 220 kV. 
+
+Sistema de Transmisión Regional (STR): Sistema Interconectado de Transmisión de energía eléctrica compuesto por redes regionales o interregionales de transmisión; conformado por el conjunto de líneas y subestaciones con sus equipos asociados, que operan a tensiones menores de 220 kV y que no pertenecen a un Sistema de Distribución Local. 
+
+Sistema Interconectado Nacional (SIN): 
+
+Es el sistema compuesto por los siguientes elementos conectados entre sí: las plantas y equipos de generación, la red de interconexión, las redes regionales e interregionales de transmisión, las redes de distribución, y las cargas eléctricas de los usuarios. 
+
+Sistema nacional de consignaciones: Sistema implementado con el fin de realizar la coordinación de los mantenimientos de equipos del Sistema de Transmisión Nacional, de los Sistemas de Transmisión Regional y de las unidades de generación despachadas centralmente. 
+
+Solución de conflictos: Es uno de los instrumentos legales con el que cuentan las partes para dirimir un conflicto o una controversia sobre el asunto que los vincula, sea un contrato, una liquidación, un acuerdo, entre otros. 
+
+Subsidio: Diferencia entre lo que el usuario paga al comercializador por el servicio y el costo de este, cuando tal costo es mayor al pago que realiza el usuario. 
+
+Superintendencia de Servicios Públicos Domiciliarios (SSPD): Entidad encargada de la inspección y vigilancia de las entidades que presten los servicios públicos domiciliarios, y los demás servicios públicos a los que se aplica la Ley 142 de 1994, creada por el artículo 75 y siguientes de dicha Ley. 
+
+Supervisión: Adquisición, en forma directa o indirecta, de información de variables operativas del SIN y procesamiento de la misma, sin que esto implique control operativo de tales variables. 
+
+T Tasa de salidas forzadas: Número de salidas forzadas por hora de servicio. 
+
+Tiempo equivalente de interrupciones: Índice que refleja la expectativa de suspensión del suministro de energía para un consumidor de energía en bloque. 
+
+Tipos de garantía: Fiducia de garantía Fiducia de administración y pago Garantía de primera demanda Realizar pago anticipado Fondo de sustentación 
+
+Títulos valores en garantía Autorización de reaplicación de pagos Toma de posesión: En el caso de las empresas de servicios públicos, es una medida preventiva que se presenta cuando quienes prestan dichos servicios incumplen de manera reiterada, a juicio de las Superintendencia de Servicios Públicos Domiciliarios, los índices de eficiencia, los indicadores de gestión y las normas de calidad definidas por las Comisiones de Regulación. La SSPD podrá ordenar la separación de los gerentes o de los miembros de las juntas directivas de la empresa de los cargos que ocupan. 
+
+La toma de posesión legalmente se encuentra concebida en dos formas: a) para administrar, cuya característica principal es que el ente social continúa desarrollando su objeto social; b) para liquidar, cuya característica principal la no continuidad de desarrollo del objeto social, y su fin es la disolución y liquidación del ente social, lo que equivale a la muerte jurídica de la empresa. La toma de posesión se encuentra regulada en la Ley 142 de 1994, en el artículo 58 y siguientes. En la modalidad de la liquidación, el artículo 121 y siguientes ibídem, remiten de manera expresa en lo pertinente a las normas relativas a la liquidación de instituciones financieras, esto es, al Estatuto Orgánico del Sistema Financiero, las normas que lo sustituyan, modifiquen o adicionen. 
+
+Trabajos de expansión: Son aquellos proyectos contenidos en el plan de expansión emitido por la UPME y/o los trabajos necesarios para la entrada en operación comercial de estos activos de conexión al STN o de uso del STN. 
+
+Transacciones Internacionales de Electricidad de corto plazo -TIE- : Transacciones horarias originadas por el despacho económico coordinado, entre los mercados de corto plazo de los países miembros de la comunidad andina, o países con los que se tenga una integración regulatoria de mercados eléctricos en las condiciones de la presente resolución, a través de enlaces internacionales. 
+
+Transformadores de distribución secundaria: Transformadores con voltaje secundario menor a 1 kV, que son utilizados para atender usuarios finales del nivel de tensión 1. 
+
+Transmisor Nacional (TN): Persona jurídica que opera y transporta energía eléctrica en el Sistema de Transmisión Nacional o que ha constituido una empresa cuyo objeto es el desarrollo de dichas actividades. 
+
+Transmisor Regional (TR): Persona jurídica que opera y transporta energía eléctrica en un Sistema de Transmisión Regional o que ha constituido una empresa cuyo objeto es el desarrollo de dichas actividades. 
+
+Transportador: De manera genérica se entiende por Transportador, los Transmisores Nacionales, los propietarios de activos de uso del STN, los Transmisores Regionales, los Distribuidores Locales, o los propietarios de activos de uso de STR´s y/o SDL´. 
+
+U Unidad con falla: Aquella que tiene un potencial de generación nulo o no confiable. 
+
+Unidad Constructiva (UC): Conjunto de elementos que conforman una unidad típica de un sistema eléctrico, orientada a la conexión de otros elementos de una red, o al transporte o a la transformación de la energía eléctrica. 
+
+Unidad Constructiva Provisional (UCP): Conjunto de elementos que conforman una unidad típica de un sistema eléctrico, orientada a la conexión de otros elementos de una red, o al transporte o a la transformación de la energía eléctrica, que es configurada de forma provisional; configuración que resulta como consecuencia de la necesidad de reestablecer el servicio en una o más áreas del SIN, previo acuerdo del propietario o propietarios y el CND, tras la indisponibilidad de otros activos de conexión o uso del STN. 
+
+Unidad de Planeación Minero-Energética (UPME): Es una unidad administrativa especial, adscrita al Ministerio de Minas y Energía, encargada de la planeación integral del sector minero energético, creada por el decreto 2119 de 1992 y organizada según lo previsto en el artículo 15 de la Ley 143 de 1994. 
+
+Usuario final: Persona natural o jurídica que se beneficia con la prestación de un servicio público, bien como propietario del inmueble en donde este se presta, o como receptor directo del servicio. A este último usuario se le denomina también consumidor. 
+
+Usuario no regulado: Es una persona natural o jurídica con una demanda máxima superior a un valor en MW o a un consumo mensual mínimo de energía en MWh, definidos por la CREG, por instalación legalizada, a partir de la cual no utiliza redes públicas de transporte de energía eléctrica y la utiliza en un mismo predio o en predios contiguos. Sus compras de electricidad se realizan a precios acordados libremente entre el comprador y el vendedor. 
+
+Usuarios de los STR o SDL: Son los usuarios finales del servicio de energía eléctrica, Operadores de Red y generadores conectados a estos sistemas. 
+
+V Valor Mensual Cargo por Capacidad (VMC): Es el valor equivalente al costo fijo mensual de tener instalada una tecnología eficiente de generación con menor costo de capital. A partir del 1 de enero de1997 este valor es de US$5 .25/kWh-mes, correspondiente a una turbina a gas de ciclo abierto. 
+
+Volumen de espera: Volumen definido entre el nivel máximo físico y el nivel de espera. 
+
+Volumen máximo físico: Volumen almacenado en el embalse cuando la superficie del agua alcanza el nivel máximo físico. 
+
+Volumen mínimo técnico: Volumen definido entre el nivel mínimo técnico y el nivel mínimo físico. 
+
+Volumen muerto: Volumen almacenado en el embalse cuando la superficie del agua alcanza el nivel mínimo físico. 
+
+Volumen neto: Volumen definido entre el nivel máximo y el nivel mínimo técnico. 
+
+Volumen útil: Volumen definido entre el nivel máximo físico y el nivel mínimo físico. W X Y Z Contáctanos < feOffset dy="3" /> Menú privado < feOffset dy="3" /> 
+
+Atención al cliente Lunes a viernes de 7:45 a. m. a 4:45 p. m. < feOffset dy="3" /> 
+
+Atención al cliente Lunes a viernes de 7:45 a. m. a 4:45 p. m. Línea ética Soporte informático 
+
+Contacto PQRS - Protección datos Mis requerimientos Atención al cliente Lunes a viernes de 7:45 a. m. a 4:45 p. m. Iniciar chat Teléfono (57) 604 3172929 - Opción 1 Fax (57) 604 3170989 WhatsApp Atención y Orientación Clientes 321 334 91 13 Formulario de contacto Cambio de contraseña Cambio de contraseña Línea ética Teléfono 018000 52 00 50 Correo electrónico lineaetica@xm.com.co Formulario de contacto App Grupo ISA Soporte informático Teléfono 604 3172929 - Opción 2 Correo electrónico 73000@xm.com.co Contacto Notificaciones judiciales XM notificacionesjudiciales@xm.com.co Sugerencias páginas web info@xm.com.co PQRS - Protección datos Correo electrónico protecciondatosXM@xm.com.co Clic aquí × Antes de continuar Hemos detectado que usas un navegador diferente a los que recomiendamos para que tengas una mejor experiencia. 
+
+Te recomendamos usar los siguientes navegadores: Google Chrome Microsoft Edge Entendido Please ensure Javascript is enabled for purposes of website accessibility © XM. Todos los derechos reservados Pie de página Herramientas FAQ Servicios para trabajadores Ir a restablecer mi contraseña Glosario Sitios de interés Mapa del sitio Trabaje con nosotros Canales de contacto Legales Notificaciones judiciales Términos y condiciones de uso Propiedad intelectual y derechos de autor Síguenos en redes sociales icon-facebook icon-twitter icon-linkedin icon-youtube icon-instagram Transparencia de la información Línea ética Cerrar Línea ética Teléfono 018000 52 00 50 Correo electrónico lineaetica@xm.com.co Formulario de contacto App Línea ética
