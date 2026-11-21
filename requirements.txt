@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+chromadb
+sentence-transformers
+langchain
+langchain-community
+transformers
+huggingface_hub
+python-dotenv
+streamlit
+pypdf
